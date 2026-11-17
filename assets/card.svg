@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" role="img">
+  <path fill="#141414" d="M18 0 H702 L708 6 L714 12 L720 18 V142 L714 148 L708 154 L702 160 H18 L12 154 L6 148 L0 142 V18 L6 12 L12 6 L18 0 Z"/>
+  <path fill="#ffffff" d="M21 3 H699 L705 9 L711 15 L717 21 V139 L711 145 L705 151 L699 157 H21 L15 151 L9 145 L3 139 V21 L9 15 L15 9 L21 3 Z"/>
+  <rect x="710" y="28" width="7" height="96" fill="#c5d3e6"/>
+  <rect x="28" y="150" width="664" height="7" fill="#c5d3e6"/>
+  <rect x="42" y="26" width="36" height="3" fill="#C2187A"/>
+  <text x="42" y="58" xml:space="preserve" font-family="'Courier New', Courier, 'Liberation Mono', monospace" font-size="18" fill="#1c1c1c">student, coach, triathlete, problem solver, problem creator</text>
+  <text x="42" y="86" xml:space="preserve" font-family="'Courier New', Courier, 'Liberation Mono', monospace" font-size="18" fill="#1c1c1c">i forget things, i speak fast (i think it's add?)</text>
+  <text x="42" y="114" xml:space="preserve" font-family="'Courier New', Courier, 'Liberation Mono', monospace" font-size="18" fill="#1c1c1c">i'm trying to build cool things</text>
+</svg>
